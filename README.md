@@ -43,3 +43,4 @@ These are some other repos for related projects:
 ## Code of conduct
 
 See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
+Learn more on Microsoft (https://learn.microsoft.com/en-us/)
