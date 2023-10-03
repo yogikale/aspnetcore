@@ -26,6 +26,7 @@ and make pull-requests.
     * [Roadmap](https://aka.ms/aspnet/roadmap): The schedule and milestone themes for ASP.NET Core.
 * [Build ASP.NET Core source code](./docs/BuildFromSource.md)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+* Learn more on Microsoft (https://learn.microsoft.com/en-us/)
 
 ## Reporting security issues and bugs
 
